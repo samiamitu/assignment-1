@@ -38,7 +38,49 @@ body {
   line-height: 95px;
 }
 
+/* off65 section  */
+#off65{
+    
+    width: 50%;
+    margin: auto;
+}
 
+#off65 h1{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 48px;
+}
+#off65 h3{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 16px;
+    
+}
+#off65 h2 {
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#off65 img {
+    width: 100%;
+    margin-bottom: 120px;
+}
+
+/* midnight-party section  */
 
 
 
