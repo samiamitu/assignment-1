@@ -410,6 +410,11 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
+  
+}
+#bonus {
+  margin-top: 120px;
+  margin-bottom: 120px;
 }
 
 
