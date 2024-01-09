@@ -407,4 +407,29 @@ body {
   height: 24px;
   width: 24px;
 }
+#bonus .coming-soon {
+  border: 3px solid yellow;
+  height: 463px;
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  
+}
+
+#bonus .coming-soon .div1 , .div2 , .div3 {
+  border: 3px solid goldenrod;
+}
+#bonus .coming-soon  .div2 img {
+  height: 364px;
+  width: 364px;
+  margin: auto;
+  border: 15px solid red;
+  border-radius: 100%;
+  padding: 34px;
+} 
+
+
 
