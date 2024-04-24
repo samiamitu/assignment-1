@@ -180,3 +180,62 @@ button {
     height: 100px;
     border-radius: 0 0 10px 10px;
 }
+#best_gifts{
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+}
+#first_row{
+    display: flex;
+    position: relative;
+}
+.photo1{
+    flex: 1;
+    width:95% ;
+
+}
+.photo2{
+    flex: 1;
+    width:95% ;
+
+}
+.photo3{
+    flex: 1;
+    width:95% ;
+
+}
+#second_row{
+    display: flex;
+    position: relative;
+    margin-top: 20px;
+}
+.pic1{
+    flex: 1;
+    width:95% ; 
+}
+.pic2{
+    flex: 1;
+    width:95% ; 
+}
+.pic3{
+    flex: 1;
+    width:95% ; 
+}
+.photo1:hover{
+    transform: scale(1.2);
+}
+.photo2:hover{
+    transform: scale(1.2);
+}
+.photo3:hover{
+    transform:scale(1.2);
+}
+.pic1:hover{
+    transform: scale(1.2);
+}
+.pic2:hover{
+    transform: scale(1.2);
+}
+.pic3:hover{
+    transform: scale(1.2);
+}
