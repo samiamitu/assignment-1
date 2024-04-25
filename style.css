@@ -1,9 +1,9 @@
-body{
-    width:100% ;
+body {
+    width: 100%;
     padding: 0px;
     margin: 0px;
-        
-    }
+
+}
 
 .banner {
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("./resources/banner.png");
@@ -59,10 +59,6 @@ span {
     padding: 50px;
     align-items: center;
     margin-bottom: 70px;
-
-
-
-
 }
 
 .left {
@@ -90,10 +86,6 @@ span {
     margin: auto;
     padding: 50px;
     font-size: 20px;
-
-
-
-
 }
 
 button {
@@ -114,128 +106,223 @@ button {
     padding: 16px 32px;
     margin-bottom: 150px;
     color: #fff;
-
-
-
-
 }
-.coming_soon{
+
+.coming_soon {
     display: flex;
     justify-content: center;
     gap: 50px;
-
 }
-.round_picture{
+
+.round_picture {
     border: #f00 10px solid;
     border-radius: 220px;
     padding: 20px;
 }
-.year{
-    font-size:50px;
+
+.year {
+    font-size: 50px;
 }
-.best_offer{
+
+.best_offer {
     margin-top: 125px;
 }
-.holiday_sale{
+
+.holiday_sale {
     text-align: center;
     margin-top: 100px;
 
 }
 
 
-.images{
+.images {
     display: flex;
     width: 80%;
     margin: auto;
 }
-.div1{
-    flex:3;
+
+.div1 {
+    flex: 3;
 
 }
-.div2{
-    flex:1;
+
+.div2 {
+    flex: 1;
 }
-.div3{
-    flex:2;
-    
+
+.div3 {
+    flex: 2;
+
 }
-.images img{
+
+.images img {
     width: 100%;
 }
-#img2{
-    width:120%;
+
+#img2 {
+    width: 120%;
     position: relative;
     left: 100px;
-    top:  150px;
+    top: 150px;
 }
-#img1{
+
+#img1 {
     position: relative;
     top: 150px;
     left: 100px;
 }
-#red{
+
+#red {
     width: 80%;
     margin: auto;
     background-color: #f00;
     height: 100px;
     border-radius: 0 0 10px 10px;
 }
-#best_gifts{
+
+#best_gifts {
     width: 80%;
     margin: auto;
     margin-top: 60px;
 }
-#first_row{
+
+#first_row {
     display: flex;
     position: relative;
 }
-.photo1{
+
+.photo1 {
     flex: 1;
-    width:95% ;
+    width: 95%;
 
 }
-.photo2{
+
+.photo2 {
     flex: 1;
-    width:95% ;
+    width: 95%;
 
 }
-.photo3{
+
+.photo3 {
     flex: 1;
-    width:95% ;
+    width: 95%;
 
 }
-#second_row{
+
+#second_row {
     display: flex;
     position: relative;
     margin-top: 20px;
 }
-.pic1{
+
+.pic1 {
     flex: 1;
-    width:95% ; 
+    width: 95%;
 }
-.pic2{
+
+.pic2 {
     flex: 1;
-    width:95% ; 
+    width: 95%;
 }
-.pic3{
+
+.pic3 {
     flex: 1;
-    width:95% ; 
+    width: 95%;
 }
-.photo1:hover{
+
+.photo1:hover {
     transform: scale(1.2);
 }
-.photo2:hover{
+
+.photo2:hover {
     transform: scale(1.2);
 }
-.photo3:hover{
-    transform:scale(1.2);
-}
-.pic1:hover{
+
+.photo3:hover {
     transform: scale(1.2);
 }
-.pic2:hover{
+
+.pic1:hover {
     transform: scale(1.2);
 }
-.pic3:hover{
+
+.pic2:hover {
     transform: scale(1.2);
+}
+
+.pic3:hover {
+    transform: scale(1.2);
+}
+.input_style {
+    width: 300px;
+    height: 30px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: none;
+
+
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.subscribe_button {
+
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 32px;
+    width: 150px;
+    font-weight: 100;
+    align-items: center;
+    font-style: normal;
+}
+
+#subscribe {
+    margin-top: 50px;
+    height: 450px;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(240, 230, 238);
+    margin-top: 50px;
+    border-radius: 15px;
+    text-align: center;
+    border: none;
+    
+}
+footer{
+    height: 450px;
+    width: 100%;
+    background-color: #070211;
+}
+.f_one{
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    border-bottom: rgb(153, 151, 151) 3px solid;
+    padding: 40px;
+}
+.f_two{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    border-bottom: rgb(153, 151, 151) 3px solid;  
+}
+.f_three{
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    padding: 40px;
 }
