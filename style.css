@@ -313,7 +313,7 @@ footer{
     gap: 10px;
     align-items: center;
     height: 100px;
-    width: 80%;
+    width: 85%;
     margin: auto;
     border-bottom: rgb(153, 151, 151) 3px solid;  
 }
@@ -322,7 +322,7 @@ footer{
     display: flex;
     justify-content: space-between;
     height: 100px;
-    width: 80%;
+    width:80%;
     margin: auto;
     padding: 40px;
 }
